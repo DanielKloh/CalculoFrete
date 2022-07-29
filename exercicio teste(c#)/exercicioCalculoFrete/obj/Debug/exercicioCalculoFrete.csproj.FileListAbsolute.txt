@@ -1,0 +1,33 @@
+C:\Users\Aluno\Desktop\Curço\Fonte( C#)\Fonte( C#)\exercicio teste\exercicioCalculoFrete\exercicioCalculoFrete\bin\Debug\exercicioCalculoFrete.exe.config
+C:\Users\Aluno\Desktop\Curço\Fonte( C#)\Fonte( C#)\exercicio teste\exercicioCalculoFrete\exercicioCalculoFrete\bin\Debug\exercicioCalculoFrete.exe
+C:\Users\Aluno\Desktop\Curço\Fonte( C#)\Fonte( C#)\exercicio teste\exercicioCalculoFrete\exercicioCalculoFrete\bin\Debug\exercicioCalculoFrete.pdb
+C:\Users\Aluno\Desktop\Curço\Fonte( C#)\Fonte( C#)\exercicio teste\exercicioCalculoFrete\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Curço\Fonte( C#)\Fonte( C#)\exercicio teste\exercicioCalculoFrete\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Curço\Fonte( C#)\Fonte( C#)\exercicio teste\exercicioCalculoFrete\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.Form1.resources
+C:\Users\Aluno\Desktop\Curço\Fonte( C#)\Fonte( C#)\exercicio teste\exercicioCalculoFrete\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Curço\Fonte( C#)\Fonte( C#)\exercicio teste\exercicioCalculoFrete\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Curço\Fonte( C#)\Fonte( C#)\exercicio teste\exercicioCalculoFrete\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Curço\Fonte( C#)\Fonte( C#)\exercicio teste\exercicioCalculoFrete\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.exe
+C:\Users\Aluno\Desktop\Curço\Fonte( C#)\Fonte( C#)\exercicio teste\exercicioCalculoFrete\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.pdb
+D:\exercicio teste(c#)\exercicioCalculoFrete\exercicioCalculoFrete\bin\Debug\exercicioCalculoFrete.exe.config
+D:\exercicio teste(c#)\exercicioCalculoFrete\exercicioCalculoFrete\bin\Debug\exercicioCalculoFrete.exe
+D:\exercicio teste(c#)\exercicioCalculoFrete\exercicioCalculoFrete\bin\Debug\exercicioCalculoFrete.pdb
+D:\exercicio teste(c#)\exercicioCalculoFrete\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.csproj.AssemblyReference.cache
+D:\exercicio teste(c#)\exercicioCalculoFrete\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.csproj.SuggestedBindingRedirects.cache
+D:\exercicio teste(c#)\exercicioCalculoFrete\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.Form1.resources
+D:\exercicio teste(c#)\exercicioCalculoFrete\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.Properties.Resources.resources
+D:\exercicio teste(c#)\exercicioCalculoFrete\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.csproj.GenerateResource.cache
+D:\exercicio teste(c#)\exercicioCalculoFrete\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.csproj.CoreCompileInputs.cache
+D:\exercicio teste(c#)\exercicioCalculoFrete\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.exe
+D:\exercicio teste(c#)\exercicioCalculoFrete\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.pdb
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\vscode 2019\exercicio teste(c#)\exercicioCalculoFrete\bin\Debug\exercicioCalculoFrete.exe.config
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\vscode 2019\exercicio teste(c#)\exercicioCalculoFrete\bin\Debug\exercicioCalculoFrete.exe
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\vscode 2019\exercicio teste(c#)\exercicioCalculoFrete\bin\Debug\exercicioCalculoFrete.pdb
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\vscode 2019\exercicio teste(c#)\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\vscode 2019\exercicio teste(c#)\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\vscode 2019\exercicio teste(c#)\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.Form1.resources
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\vscode 2019\exercicio teste(c#)\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\vscode 2019\exercicio teste(c#)\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\vscode 2019\exercicio teste(c#)\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\vscode 2019\exercicio teste(c#)\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.exe
+C:\Users\Acer\OneDrive\Ambiente de Trabalho\C#\vscode 2019\exercicio teste(c#)\exercicioCalculoFrete\obj\Debug\exercicioCalculoFrete.pdb
